@@ -1,0 +1,2 @@
+# ids-ppt
+Bionomial Distribution
